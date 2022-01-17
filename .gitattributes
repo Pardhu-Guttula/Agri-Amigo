@@ -1,3 +1,0 @@
-*.tomato_leafDisease_pred.h5 filter=lfs diff=lfs merge=lfs -text
-*.zip filter=lfs diff=lfs merge=lfs -text
-tomato_leafDisease_pred.h5 filter=lfs diff=lfs merge=lfs -text
